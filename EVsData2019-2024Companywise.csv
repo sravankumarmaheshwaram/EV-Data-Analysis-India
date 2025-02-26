@@ -1,0 +1,37 @@
+company,vehicle_type,2019_sales_units,2020_sales_units,2021_sales_units,2022_sales_units,2023_sales_units,2024_sales_units,growth_trend,market_share,manufacturing_state
+Tata Motors,Cars,2000,2500,5000,35000,66700,61496,Moderate Growth,70,Maharashtra
+Mahindra Electric,Cars,500,600,1000,3000,12000,15000,Slow Growth,5,Karnataka
+Ather Energy,2-Wheelers,1500,2000,15000,50000,118000,132000,Steady Growth,8,Karnataka
+Hero Electric,2-Wheelers,50000,55000,65000,100000,100000,80000,Varied,0,Delhi
+Ola Electric,2-Wheelers,0,0,1000,100000,239000,290000,Very High,30,Tamil Nadu
+Ashok Leyland (EV Bus),Electric Buses,50,75,100,200,500,1000,Increasing,0,Rajasthan
+TVS Motor Company,2-Wheelers,1000,1500,5000,20000,100000,150000,High,0,Tamil Nadu
+Bajaj Auto (EV),2-Wheelers,500,750,2000,15000,80000,120000,High,0,Maharashtra
+MG Motor India,Cars,0,0,1000,3000,5000,8000,Increasing,0,Gujarat
+Hyundai Motor India,Cars,0,0,500,2000,5000,10000,Increasing,0,Tamil Nadu
+Revolt Motors,2-Wheelers,500,1000,5000,10000,5000,8000,Varied,0,Haryana
+Ampere Vehicles,2-Wheelers,10000,12000,20000,40000,50000,60000,Increasing,0,Tamil Nadu
+Okinawa Autotech,2-Wheelers,15000,20000,30000,90000,80000,70000,Varied,0,Rajasthan
+Kinetic Green Energy (3-Wheelers),3-Wheelers,2000,3000,8000,20000,30000,40000,Increasing,0,Maharashtra
+BYD India,Cars,100,150,300,1500,2000,2500,Increasing,0,Tamil Nadu
+JBM Auto,Electric Buses,20,30,50,150,300,500,Increasing,0,Haryana
+Piaggio Vehicles,3-Wheelers,200,300,800,3000,8000,15000,Increasing,0,Maharashtra
+Hero MotoCorp,2-Wheelers,0,0,0,1000,10000,50000,Rapidly Increasing,0,Haryana
+Etrio Automobiles,3-Wheelers,50,100,300,1000,2000,3000,Increasing,0,Telangana
+Triton Electric,Cars,0,0,0,0,50,200,Increasing,0,Gujarat
+Simple Energy,2-Wheelers,0,0,0,100,1000,5000,Increasing,0,Karnataka
+Greaves Cotton/Greaves Electric Mobility,2-Wheelers,5000,7000,15000,30000,35000,40000,Increasing,0,Maharashtra
+Maruti Suzuki India,Cars,0,0,0,0,0,5000,Very New,0,Haryana
+Renault India,Cars,0,0,0,0,200,1000,Increasing,0,Tamil Nadu
+Citroën India,Cars,0,0,0,0,100,500,Increasing,0,Tamil Nadu
+Audi India,Cars,0,0,0,50,200,500,Increasing,0,Maharashtra
+Mercedes-Benz India,Cars,0,0,0,100,400,800,Increasing,0,Maharashtra
+Kia Motors India,Cars,0,0,0,50,300,1000,Increasing,0,Andhra Pradesh
+Volvo Eicher,Commercial Vehicles,50,75,100,200,400,700,Increasing,0,Madhya Pradesh
+Olectra Greentech,Electric Buses,20,30,50,100,200,400,Increasing,0,Telangana
+Force Motors,EV Vans,100,150,300,800,1500,2500,Increasing,0,Maharashtra
+Atul Auto,3-Wheelers,100,150,300,800,1500,2500,Increasing,0,Gujarat
+SML Isuzu,Commercial Vehicles,0,0,0,0,100,500,Increasing,0,Punjab
+Mahindra Reva,Unknown,100,150,300,500,0,0,Decreasing,0,Karnataka
+HOP Electric Mobility,2-Wheelers,0,0,500,5000,15000,30000,Rapidly Increasing,0,Rajasthan
+Omega Seiki Mobility,3-Wheelers,0,0,200,1000,3000,8000,Rapidly Increasing,0,Haryana
